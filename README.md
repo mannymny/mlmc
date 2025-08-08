@@ -53,9 +53,9 @@ Si tu navegador es Opera o Brave, desactiva el bloqueador de anuncios
 ---
 
 ### 4. :test_tube: Descarga los mods
-![Imagen Paso 4](RUTA_DE_LA_IMAGEN)
 
 :package: Están los mods y los emotes en éste proyecto.  
+
 :link: [Descargar Mods y Emotes](https://discord.com/channels/1365044409803997277/1383607349574504458/1402088449204420659)
 
 ![downloadmods1](https://github.com/user-attachments/assets/e5504681-32d6-49b2-9771-d3a2349001ac)
